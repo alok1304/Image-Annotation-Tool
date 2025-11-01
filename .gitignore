@@ -1,0 +1,5 @@
+*.pyc
+backend/venv/Lib/site-packages/
+*.exe
+*.ps1
+backend/venv/
